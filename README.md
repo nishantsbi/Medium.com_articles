@@ -1,2 +1,2 @@
-# Medium.com_articles
+# Medium_articles
 Notebooks for Medium.com publication

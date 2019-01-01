@@ -1,0 +1,82 @@
+https://blog.visme.co/bad-infographics/
+
+Intended audience is HR professionals
+
+
+**How to select the number of bins in a histogram**
+
+He, K., & Meeden, G. (1997). [Selecting the Number of Bins in a Histogram: 
+A Decision Theoretic Approach](http://users.stat.umn.edu/~gmeeden/papers/hist.pdf).
+ Journal of Statistical Planning and inference, 61(1), 49-59.
+
+
+
+
+![vector_sum](pictures/vector_sum.PNG)
+<h2 align='center' style="margin-top: 0px"> Session 4 Multivariable Calculus</h2>
+
+
+$\ a$
+
+$\ a=[1,1]$
+
+
+
+$$
+\ cos(\theta)= \frac{a. b}{||a||.||b||}=\frac{1.1+1.0}{\sqrt{2}\sqrt{1}}=\frac{1}{\sqrt{2}}
+$$
+
+
+
+$$
+A= \begin{bmatrix} 
+1\\
+2
+\end{bmatrix} ,
+B=\begin{bmatrix}
+6\\ 
+15
+\end{bmatrix}
+$$ 
+
+
+$3 \overrightarrow{i}$ 
+
+$
+A= \begin{bmatrix} 
+5 & 0 & 0\\
+0 & -1 & 0\\
+0 & 0 & 2
+\end{bmatrix}
+$
+
+$\ A_{i,j}$
+
+
+
+$
+A= \begin{bmatrix} 
+4 & 2 & 3 & 2\\
+3 & 1 & 5 & 4\\
+1 & 8 & 1 & 2
+\end{bmatrix} ,
+B=\begin{bmatrix}
+6 & 2 & 8 & 9\\
+2 & 6 & 8 & 1\\
+0 & 3 & 0 & 2
+\end{bmatrix}
+$
+
+
+
+|                          |                          | 
+:-------------------------:|:-------------------------:
+![fn1](pictures\fn1.PNG) | ![fn2](pictures\fn2.PNG) 
+:-------------------------:|:-------------------------:
+![fn3](pictures\fn3.PNG) | ![fn4](pictures\fn4.PNG)
+:-------------------------:|:-------------------------:
+![fn5](pictures\fn5.PNG) | ![fn6](pictures\fn6.PNG)
+
+
+$\ m=\frac{\Delta{y}}{\Delta{x}}=\frac{vertical\ change}{horizontal\ change}=\frac{rise}{run}$
+
